@@ -1,5 +1,4 @@
-# cul_migration
-Scripts and notes to aid migration away from CiteULike
+# CiteULike Migration Scripts
 
 We might need to migrate away from CiteULike, as it's increasingly broken and unsupported.
 
